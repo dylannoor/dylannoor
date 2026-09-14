@@ -2,8 +2,7 @@
 
 Software developer in Rotterdam. I got started writing ReShade shaders and installers for games; these days it's mostly TypeScript, Rust and Python, split between browser automation for LLM agents, small data-driven sites and the tooling around them.
 
-Roshade, the ReShade package for Roblox I built in 2020, has passed five million downloads on GitHub alone.
-
+Roshade, the ReShade package for Roblox I built in 2020, has passed ten million downloads in total.
 <br>
 
 ## Building now
