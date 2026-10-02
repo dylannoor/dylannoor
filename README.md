@@ -9,6 +9,11 @@ Roshade, the ReShade package for Roblox I built in 2020, has passed ten million 
 
 <table>
 <tr>
+  <td nowrap valign="top"><a href="https://github.com/dylannoor/needle"><b>needle</b></a></td>
+  <td valign="top">A Soulseek client with everything Nicotine+ does and an interface that gets out of the way. Set a quality profile once; it groups results into releases, switches source when a download stalls, and checks every file's spectrum so a transcoded FLAC never lands in your library. Tauri, Rust and React, with a Rekordbox extension.</td>
+  <td nowrap valign="top" align="right"><img src="https://img.shields.io/github/stars/dylannoor/needle?style=flat-square&labelColor=24292f&color=0969da&label=stars" alt="stars"></td>
+</tr>
+<tr>
   <td nowrap valign="top"><a href="https://github.com/dylannoor/festiweer"><b>festiweer</b></a></td>
   <td valign="top">Weather posters for Dutch festivals, each in the festival's own design language. Built from the ECMWF and GFS ensembles with KNMI Harmonie for the last 48 hours, rebuilt every four hours on GitHub Pages.</td>
   <td nowrap valign="top" align="right"><a href="https://festiweer.nl">festiweer.nl</a></td>
